@@ -1,3 +1,6 @@
+Written by: Jackie Mann
+Alias: whiteshd0w
+
 Enumerated the box as normal. You can answer all the questions in task 2 from our enumeration.
 
 ```
